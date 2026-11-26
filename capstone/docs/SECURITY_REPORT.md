@@ -1,6 +1,9 @@
 # Security and Compliance Report
 **Project:** SecureNotes – Secure Three-Tier Web Application on AWS
-**Course:** Cloud Computing Capstone  **Student:** ______________  **Date:** ____________
+**Course:** - **Cloud Computing Capstone**  
+**Student Name** - **Gaurav sharma**
+**Roll No** - **2401410041**
+**Btech CSE Cyber Security**
 
 ## 1. Executive summary
 This project deploys a three-tier web application (Nginx frontend, Flask API, MySQL on RDS) in an AWS VPC and applies layered controls: network segmentation, least-privilege IAM and database access, encryption in transit and at rest, logging/alerting and backup. Section 6 maps controls to the NIST Cybersecurity Framework (CSF) 2.0. This is a student demonstration system, not a certified or audited production environment; Section 7 lists known gaps.
